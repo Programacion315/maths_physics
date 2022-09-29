@@ -46,7 +46,7 @@ export const Navbar = () => {
             <CDropdown variant="nav-item" popper={false}>
               <CDropdownToggle>Maths</CDropdownToggle>
               <CDropdownMenu>
-                <CDropdownItem href="#">Arithmetic</CDropdownItem>
+                <CDropdownItem href="#">Hola</CDropdownItem>
                 <CDropdownDivider />
                 <CDropdownItem href="#">Algebra</CDropdownItem>
                 <CDropdownDivider />
